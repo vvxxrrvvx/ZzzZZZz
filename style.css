@@ -1,0 +1,19 @@
+#gameContainer{
+    text-align: center;
+}
+#papanGame{
+    border: 3px solid;
+}
+#scoreText{
+    font-family:"Permanent Marker", cursive;
+    font-size: 55px;
+}
+#resetBtn{
+    font-family:"Permanent Marker", cursive;
+    font-size: 21px;
+    width: 70px;
+    height: 45px;
+    border: 2px solid;
+    border-radius: 12px;
+    cursor: pointer;
+}
